@@ -42,5 +42,3 @@ dmypy.json
 # OS
 .DS_Store
 
-# App output
-output/
