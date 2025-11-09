@@ -1,0 +1,16 @@
+{
+  "circle_radius": 120.0,
+  "groups": [
+    {"id": "blue", "color": "#1f77b4", "mean": [-160.0, -40.0], "variance": [1800.0, 2000.0]},
+    {"id": "green", "color": "#2ca02c", "mean": [80.0, -60.0], "variance": [1500.0, 1800.0]},
+    {"id": "red", "color": "#d62728", "mean": [-20.0, 160.0], "variance": [1600.0, 1900.0]}
+  ],
+  "mean_bounds": {
+    "min": [-240.0, -240.0],
+    "max": [240.0, 240.0]
+  },
+  "variance_bounds": {
+    "min": [900.0, 900.0],
+    "max": [2600.0, 2600.0]
+  }
+}
